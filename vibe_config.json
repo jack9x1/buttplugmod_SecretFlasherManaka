@@ -1,0 +1,22 @@
+{
+  "ButtplugServerUri": "ws://127.0.0.1:12345",
+  "ConnectKey": "Equals",   
+  "LogToggleKey": "Minus", 
+  "EnableVerboseLogging": true,
+  "EnableHeartRateDebugLog": false,
+
+  "ClimaxVibrationDuration": 0.20,
+  "ClimaxPauseDuration": 0.20,
+  "ClimaxMaxIntensityLevel": 17.0,
+  
+  "LowVibeClimaxBaseCycles": 7,
+  "LowVibeClimaxMaxAccumulatedCycles": 25,
+  "HighVibeClimaxBaseCycles": 15,
+  "HighVibeClimaxMaxAccumulatedCycles": 50,
+  
+  "MajorClimaxTriggerCount": 15,
+  
+  "MinorClimaxCooldownDuration": 10.0,
+  "MajorClimaxCooldownDuration": 30.0,
+  "MotorStaggerDuration": 0.01
+}
