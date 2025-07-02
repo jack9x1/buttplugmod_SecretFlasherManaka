@@ -1,6 +1,7 @@
 # buttplugmod_SecretFlasherManaka
-# buttplugmod_SecretFlasherManaka
+
 # Mod Tested MelonLoader v0.7.1 Open-Beta
+#----------------------------------------------
 # Easy Start
 ## First 
 ### SecretFlasherManaka install MelonLoader v0.7.1
@@ -12,6 +13,7 @@
 ## Finanly
 ### Run game
 ### Enjoy it
+#----------------------------------------------
 
 # 簡単な手順
 ## まず
@@ -25,6 +27,7 @@
 ## 最後に
 ### ゲームを起動します。
 ### お楽しみください。  
+#----------------------------------------------
 
 # 简易步骤
 ## 第一步
