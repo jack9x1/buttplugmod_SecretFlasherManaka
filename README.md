@@ -1,6 +1,44 @@
 # buttplugmod_SecretFlasherManaka
 buttplugmod_SecretFlasherManaka
 Mod Tested MelonLoader v0.7.1 Open-Beta
+Easy Start
+First 
+SecretFlasherManaka install MelonLoader v0.7.1
+Run game 
+Initialized
+Exit
+Second 
+Unzip decompressiontoMods.7z to Mods directory "SecretFlasherManaka/Mods/"
+Finanly
+Run game
+Enjoy it
+
+簡単な手順
+まず
+SecretFlasherManaka に MelonLoader v0.7.1 をインストールします。
+ゲームを起動します。
+初期化されました。
+終了します。  
+
+次に
+decomprestoMods.7z を解凍して、「SecretFlasherManaka/Mods/」ディレクトリにコピーします。
+最後に
+ゲームを起動します。
+お楽しみください。  
+
+简易步骤
+第一步
+将 SecretFlasherManaka 安装 MelonLoader v0.7.1
+运行游戏
+初始化完成
+退出  
+
+第二步
+将 decompresstoMods.7z 解压到 "SecretFlasherManaka/Mods/" 目录
+最后
+运行游戏
+享受游戏吧！
+
 
 # VibeSync Mod User Manual
 
